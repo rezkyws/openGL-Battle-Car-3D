@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rezuki/Documents/uas_final_v1 (1)/uas/BmpLoader.h
+fstream
+-
+vector
+-
+stdexcept
+-
+iostream
+-
+
+/home/rezuki/Documents/uas_final_v1 (1)/uas/main.cpp
+ctime
+-
+cstdlib
+-
+GL/glut.h
+-
+BmpLoader.h
+/home/rezuki/Documents/uas_final_v1 (1)/uas/BmpLoader.h
+list
+-
+sstream
+-
+

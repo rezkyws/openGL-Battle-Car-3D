@@ -1,0 +1,3 @@
+/home/rezuki/Documents/uas_final_v1 (1)/uas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rezuki/Documents/uas_final_v1 (1)/uas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rezuki/Documents/uas_final_v1 (1)/uas/cmake-build-debug/CMakeFiles/uas.dir

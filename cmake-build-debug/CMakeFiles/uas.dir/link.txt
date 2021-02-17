@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/uas.dir/main.cpp.o CMakeFiles/uas.dir/BmpLoader.cpp.o  -o uas  -lglut -lGLU -lGL 
